@@ -1,5 +1,3 @@
-import requests
-
 
 #getting the movie base url
 base_url = None
