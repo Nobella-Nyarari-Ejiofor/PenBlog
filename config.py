@@ -2,6 +2,7 @@ import os
 
 class Config:
   SECRET_KEY = 'Moringa School'
+  SQLALCHEMY_DATABASE_URI='postgresql+psycopg2://moringa:access@localhost/blog'
   UPLOADED_PHOTOS_DEST ='app/static/photos'
 
 
