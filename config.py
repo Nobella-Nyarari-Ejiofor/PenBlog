@@ -2,19 +2,16 @@ import os
 
 class Config:
   SECRET_KEY = 'Moringa School'
-  SQLALCHEMY_DATABASE_URI='postgresql+psycopg2://moringa:access@localhost/blog'
+  SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:access@localhost/blog'
   UPLOADED_PHOTOS_DEST ='app/static/photos'
 
 
-
 class ProdConfig(Config):
-    SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL').replace("://", "ql://", 1)
-
+    pass
 
 
 class DevConfig(Config):
-    # DEBUG = True
-    pass
+    DEBUG = True
 
 config_options = {
 'development':DevConfig,
