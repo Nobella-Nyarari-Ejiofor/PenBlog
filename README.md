@@ -45,7 +45,7 @@ To work with The blog App you need to have some few prerequisites.
 
 3. To get to use **the_blog** first you need to clone pitchtube repository. 
 
-Link:-> ```https://github.com/ThiraTheNerd/the_blog.git```
+Link:-> ```https://github.com/Nobella-Nyarari-Ejiofor/PenBlog```
 
 4. From there you can access The blog App.
 
@@ -67,19 +67,18 @@ OR run:
 
 # AUTHOR
 
-* ThiraTheNerd
+* Nobella Ejiofor
 
 ## Support and Contact
 ---
 
--Twitter: [@thiragithinji](https://twitter.com/thiragithinji/)
 
 
--Email Address: thiragithinji [@] gmail.com
+-Email Address: nobellanyarari@gmail.com
 
--github-username: ThiraTheNerd
+-github-username: Nobella-Nyarari-Ejiofors
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2019. ThiraTheNerd
+Copyright (c) 2021. Nobella
